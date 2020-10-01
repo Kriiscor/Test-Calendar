@@ -4,7 +4,7 @@
     <div class="footer">
       <div class="container">
  
-      <p > Appelez notre service commercial au 03.22.84.65.74 pour recevoir un bon de commande</p>
+      <p >Pour nous contacter, vous pouvez appelez au 0169348483</p>
        
       </div>
     </div>

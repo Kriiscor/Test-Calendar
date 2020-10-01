@@ -1,6 +1,6 @@
 <?php
 /** 
- * Script de contrôle et d'affichage du cas d'utilisation "Rechercher"
+ * Script de contrï¿½le et d'affichage du cas d'utilisation "Rechercher"
  * @package default
  * @todo  RAS
  */
